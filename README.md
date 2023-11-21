@@ -1,4 +1,10 @@
-# 👋 Welcome to A Product
+---
+description: Git Book으로 내가 진행한/참여한 Study에 대해서 Study Book에 기록하여 지식을 공유하고자 하는 "지식 공유 프로젝트"
+---
+
+# 👋 Welcome to Study Book Project
+
+
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.

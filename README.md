@@ -1,28 +1,24 @@
 ---
-description: Git Book으로 내가 진행한/참여한 Study에 대해서 Study Book에 기록하여 지식을 공유하고자 하는 "지식 공유 프로젝트"
+description: Git Book으로 진행한/참여한 Study에 대해서 Study Book에 기록하여 지식을 공유하고자 하는 "지식 공유 프로젝트"
 ---
 
 # 👋 Welcome to Study Book Project
 
-
-
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+해당 프로젝트의 목적은 공부한 것에 대해 기록하기 위함이며, 기록을 기반으로 주변 사람들 내지 많은 사람들에게 지식을 공유함이다.
 {% endhint %}
 
 ## Overview
 
-Here are a couple of example overviews from products with really great docs:
+'**Study Book Project**'는 OpenSource 지식 공유 프로젝트로 운영자인 [Yun Min Woo](http://127.0.0.1:5000/u/b6Ah025cazSEtv9QJDUQ8eMevOH2 "mention")가 진행하지만, 해당프로젝트에 동참하고자 하는 사람들은 CONTRIBUTING.md 와 Code\_Of\_Conduct.md 를 읽고 기여해주면 감사하겠다.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+
+
+
+
+
+
 
 ## Quick links
 

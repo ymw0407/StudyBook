@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Study Book Project](README.md)
+* [👋 Welcome to Study Book Project](main.md)
   * [🤝 Contributing](readme/contributing.md)
 
 ## Overview

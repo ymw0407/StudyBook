@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Study Book Project](README.md)
-* [CONTRIBUTING](CONTRIBUTING.md)
+* [Contributing](CONTRIBUTING.md)
 
 ## Overview
 

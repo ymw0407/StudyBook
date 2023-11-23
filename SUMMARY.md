@@ -1,7 +1,8 @@
 # Table of contents
 
-* [👋 Welcome to Study Book Project](main.md)
+* [👋 Welcome to Study Book Project](README.md)
   * [🤝 Contributing](readme/contributing.md)
+  * [🏛 Code of Conduct](main/code-of-conduct.md)
 
 ## Overview
 

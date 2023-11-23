@@ -12,4 +12,4 @@
 ## Study
 
 * [🗃 Make](study/make/README.md)
-  * [Make](study/make/make.md)
+  * [Make 명령어](study/make/make.md)

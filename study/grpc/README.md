@@ -1,6 +1,6 @@
 ---
 description: gRPC를 사용하여 개발을 하기 위한 스터디...
-cover: ../../.gitbook/assets/image.png
+cover: ../../.gitbook/assets/image (4).png
 coverY: 0
 layout:
   cover:

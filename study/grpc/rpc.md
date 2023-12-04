@@ -55,7 +55,7 @@ IPC - 참고 사이트
 
 RPC는 Socket이 발전된 형태인데... **Socket**이란, OSI 7 Layer 구조의 Application Layer에서 Transport Layer의 TCP나 UDP를 사용하기 위한 수단입니다. 목적지와의 통신이 컴퓨터 내부가 아니라 온라인 범위에서 이루어지기 때문에 네트워크 간 통신이라고 구분하기도 하지만, 실질적으로는 로컬 컴퓨터의 프로세스와 원격지 컴퓨터의 프로세스가 IPC 통신을 하는 것입니다.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Internet Protocol Stack의 Application Layer에서 Transport Layer와의 통신</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Internet Protocol Stack의 Application Layer에서 Transport Layer와의 통신</p></figcaption></figure>
 
 하지만, 이런 소캣을 활용한 IPC 통신에는 **발생 가능한 모든 예외 상황들을 미리 예측하고 대비하며 구현해야**는 문제가 있었습니다. 이를 해결하고자, RPC(Remote Procedure Call)라는 기술이 등장합니다. 이름 그대로 네트워크로 연결된 서버 상의 프로시저(함수, 메서드 등)를 원격으로 호출할 수 있는 기능입니다. 네트워크 통신을 위한 작업 하나하나 챙기기 귀찮으니, 통신이나 call 방식에 신경쓰지 않고 원격지의 자원을 내 것처럼 사용할 수 있죠. IDL(Interface Definication Language) 기반으로 다양한 언어를 가진 환경에서도 쉽게 확장이 가능하며, 인터페이스 협업에도 용이하다는 장점이 있습니다.
 
@@ -69,7 +69,7 @@ RPC의 궁극적인 목표는 다음과 같습니다.
 * 클라이언트는 일반 메소드를 호출하는 것처럼 원격지의 프로지서를 호출할 수 있다.
 * 서버도 마찬가지로 일반 메소드를 다루는 것처럼 원격 메소드를 다룰 수 있다.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>출처: Geek for Geeks</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>출처: Geek for Geeks</p></figcaption></figure>
 
 RPC도 위의 사진과 같이 Client-Server 모델을 사용하고 있습니다.
 

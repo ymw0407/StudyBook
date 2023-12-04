@@ -4,14 +4,11 @@
   * [🤝 Contributing](readme/contributing.md)
   * [🏛 Code of Conduct](main/code-of-conduct.md)
 
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
-
 ## Study
 
 * [🗃 Make](study/make/README.md)
   * [Make 명령어](study/make/make.md)
 * [🎆 gRPC](study/grpc/README.md)
   * [RPC란](study/grpc/rpc.md)
+  * [gRPC란](study/grpc/grpc.md)
+  * [Page](study/grpc/page.md)

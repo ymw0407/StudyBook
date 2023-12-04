@@ -11,4 +11,4 @@
 * [🎆 gRPC](study/grpc/README.md)
   * [RPC란](study/grpc/rpc.md)
   * [gRPC란](study/grpc/grpc.md)
-  * [Page](study/grpc/page.md)
+  * [Protobuf](study/grpc/protobuf.md)
